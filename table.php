@@ -15,8 +15,6 @@ $num = mysql_numrows($result);
 
 mysql_close();
 
-
-
 echo "<b><center>Database Output</center></b></br>";
 echo '<table border="1" cellspacing="2" cellpadding="2">';
 echo '<tr>

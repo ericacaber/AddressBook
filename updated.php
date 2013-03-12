@@ -20,4 +20,7 @@ mysql_query($query);
 echo "Record Updated";
 mysql_close();
 
+
+//update1
+
 ?>

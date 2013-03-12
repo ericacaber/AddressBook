@@ -16,6 +16,7 @@ $num = mysql_numrows($result);
 mysql_close();
 
 
+
 echo "<b><center>Database Output</center></b></br>";
 echo '<table border="1" cellspacing="2" cellpadding="2">';
 echo '<tr>
@@ -47,18 +48,5 @@ for ($i = 0; $i < $num; $i++){
 }
 
 echo '</table>';
-
-
-
-//comment
-//comment
-
-
-
-
-//****Try****
-
-
-//commit
 
 ?>

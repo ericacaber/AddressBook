@@ -1,5 +1,5 @@
 <?php
-//try2
+
 $ud_id=$_POST['ud_id'];
 $ud_first=$_POST['ud_first'];
 $ud_last=$_POST['ud_last'];
@@ -22,9 +22,5 @@ mysql_close();
 
 
 //update1
-
-//update2
-
-//update3
 
 ?>
